@@ -1,9 +1,9 @@
-package pack_three;
+package pack_two;
 
 public class ExPack_0320_package {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//
 
 	}
 
